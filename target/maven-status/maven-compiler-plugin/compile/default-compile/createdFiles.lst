@@ -1,0 +1,3 @@
+simple\validator\ValidationBase.class
+simple\validator\CompositeValidation.class
+simple\validator\ValidPayload.class
